@@ -42,3 +42,12 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 GNU GPLv3
+###  💜 Herokuya Dağıt
+
+[![ Dağıt ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sirincay2/RythmMusiqiV2)
+String üçün botdan kullanımdə edin [ @genStr_robot ](https://t.me/@genStr_robot)
+
+###  ⚔ Sunucubağlama
+```ş
+# Git Yüklə (apt-instll git)
+$ git klonu https://github.com/sirincay2/
