@@ -4,7 +4,7 @@ mention-all-bot is a telegram bot that helps to mention all users in a group.
 
 ## Usage
 
-1. Use [hosted](https://t.me/mention_all_the_bot) or host yourself
+1. Use [hosted](https://t.me/ReislerAllBot) or host yourself
 
 1. Add to your group
 
@@ -44,10 +44,10 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 GNU GPLv3
 ###  💜 Herokuya Dağıt
 
-[![ Dağıt ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sirincay2/RythmMusiqiV2)
-String üçün botdan kullanımdə edin [ @genStr_robot ](https://t.me/@genStr_robot)
+[![ Dağıt ](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ReislerSupport/ReislerAllbot)
+String üçün botdan kullanımdə edin [ @genStr_robot ](https://t.me/@ReislerAllBot)
 
 ###  ⚔ Sunucubağlama
 ```ş
 # Git Yüklə (apt-instll git)
-$ git klonu https://github.com/sirincay2/
+$ git klonu https://github.com/ReislerSupport/ReislerAllbot
