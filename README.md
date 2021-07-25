@@ -50,4 +50,4 @@ String üçün botdan kullanımdə edin [ @genStr_robot ](https://t.me/@ReislerA
 ###  ⚔ Sunucubağlama
 ```ş
 # Git Yüklə (apt-instll git)
-$ git klonu https://github.com/ReislerSupport/ReislerAllbot
+$ git klonu https://github.com/pischule/mention-all-bot.git
